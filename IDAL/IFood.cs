@@ -16,9 +16,7 @@ namespace IDAL
         IEnumerable<Food> GetFoodByMId(int id);
         IEnumerable<Food> GetFood();
 
-        //你好
-        //我还好
-     IEnumerable<Food> GetFoodByUId(int id);
+       
 
     }
 }
