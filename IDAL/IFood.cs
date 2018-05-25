@@ -18,6 +18,7 @@ namespace IDAL
 
         //你好
         //我还好
+     IEnumerable<Food> GetFoodByUId(int id);
 
     }
 }
